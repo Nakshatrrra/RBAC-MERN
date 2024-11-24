@@ -1,4 +1,4 @@
-# User Authentication API
+# RBAC assignment
 
 ## Overview
 This project provides a simple API for user authentication using **Node.js**, **Express.js**, and **MongoDB**. It includes the following features:
